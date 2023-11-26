@@ -186,8 +186,8 @@ int servo_ang;
 
 //////////////////////////////////////////
 // Replace with your network credentials
-const char* ssid = "Duck";
-const char* password = "patosasados121221";
+const char* ssid = "";
+const char* password = "";
 
 // Variables to store the current state of the slider, joystick, and switch
 int sliderValue = 0;
